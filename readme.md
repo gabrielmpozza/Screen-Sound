@@ -1,4 +1,4 @@
-# "A C# console application designed to manage a list of bands and their corresponding ratings."
+# A C# console application designed to manage a list of bands and their corresponding ratings.
 
 ## 📖 Description
 
